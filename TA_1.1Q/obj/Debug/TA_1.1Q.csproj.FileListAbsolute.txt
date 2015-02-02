@@ -1,0 +1,10 @@
+c:\users\loaf\documents\visual studio 2013\Projects\TA_1.1Q\TA_1.1Q\bin\Debug\TA_1.1Q.exe.config
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\bin\Debug\TA_1.1Q.exe.config
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\bin\Debug\TA_1.1Q.exe
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\bin\Debug\TA_1.1Q.pdb
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\obj\Debug\TA_1.1Q.csprojResolveAssemblyReference.cache
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\obj\Debug\TA_1._1Q.Form1.resources
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\obj\Debug\TA_1._1Q.Properties.Resources.resources
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\obj\Debug\TA_1.1Q.csproj.GenerateResource.Cache
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\obj\Debug\TA_1.1Q.exe
+C:\Users\Loaf\Documents\GitHub\C#\TA_1.1Q\TA_1.1Q\obj\Debug\TA_1.1Q.pdb

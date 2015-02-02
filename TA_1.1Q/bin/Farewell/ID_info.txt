@@ -1,0 +1,10 @@
+Programmers		:Laithe Marshall
+Assignment #		:TA 1.1Q
+Assignment Name		:Quirky Programming
+Course # and Title		:CISC 193 - C#
+Class Meeting Time		:MW 9:35 - 12:45
+Instructor			:Professor Forman
+Hours			:60
+Difficulty			:6
+Completion Date		:December/15/2014
+Project Name		:TA_1.1Q
